@@ -11,6 +11,9 @@ gitbook serve
 
 gitbook install
 
+gitbook build
+
+gitbook pdf
 
 https://dunwu.gitbooks.io/gitbook-notes/
 
