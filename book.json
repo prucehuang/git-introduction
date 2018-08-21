@@ -7,16 +7,30 @@
         "-sharing",
         "search-pro",
         "tbfed-pagefooter",
-        "advanced-emoji"
+        "advanced-emoji",
+        "github",
+        "donate",
+        "multipart"
     ],
     "pluginsConfig": {
         "theme-default": {
             "showLevel": true
         },
         "tbfed-pagefooter": {
-            "copyright": "Copyright (c) 2018 Tencent IEG VASD M&IODC MG.",
+            "copyright": "Copyright (c) 2018 Tencent PRUCE & MG.",
             "modify_label": "time：",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
+        },
+        "github": {
+            "url": "https://github.com/prucehuang/gitbook-introduction"
+        },
+        "donate": {
+            "wechat": "https://github.com/prucehuang/common-resources/blob/master/pictures/wechat_pay.jpg",
+            "alipay": "https://github.com/prucehuang/common-resources/blob/master/pictures/zhifubao_pay.jpg",
+            "title": "",
+            "button": "赏",
+            "alipayText": "支付宝打赏",
+            "wechatText": "微信打赏"
         }
     },
     "pdf": {
