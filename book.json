@@ -25,8 +25,8 @@
             "url": "https://github.com/prucehuang/gitbook-introduction"
         },
         "donate": {
-            "wechat": "https://github.com/prucehuang/common-resources/blob/master/pictures/wechat_pay.jpg",
-            "alipay": "https://github.com/prucehuang/common-resources/blob/master/pictures/zhifubao_pay.jpg",
+            "wechat": "https://github.com/prucehuang/common-resources/blob/master/pictures/wechat_pay.jpg?raw=true",
+            "alipay": "https://github.com/prucehuang/common-resources/blob/master/pictures/zhifubao_pay.jpg?raw=true",
             "title": "",
             "button": "赏",
             "alipayText": "支付宝打赏",
