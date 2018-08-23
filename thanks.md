@@ -1,6 +1,6 @@
 # 感谢&参考文章
 
-# 感谢&参考文章
+gitbook在github上的源码 https://github.com/GitbookIO/gitbook
 
 https://yuzeshan.gitbooks.io/gitbook-studying/content/index.html
 https://blog.csdn.net/kuangshp128/article/details/80714353
@@ -15,3 +15,6 @@ https://zhuanlan.zhihu.com/p/34946169
 http://km.oa.com/group/25584/articles/show/348272?kmref=search&from_page=1&no=7
 
 https://chrisniael.gitbooks.io/gitbook-documentation/content/
+
+> @ WHAT - HOW - WHY  
+> @ 不积跬步 - 无以至千里
