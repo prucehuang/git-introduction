@@ -28,7 +28,7 @@ $ gitbook build
 /docs/docs/
 ```
 7. 上传所有的文本到GitHub服务器，进入GitHub的设置页面，选择Settings，找到GitHub Pages，打开并选择"master branch/docs folder"
-![image](/image/github_pages.png)
+![github_pages设置](/image/github_pages.png)
 保存后稍等片刻即可访问
 https://prucehuang.github.io/git-introduction/
 
