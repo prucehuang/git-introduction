@@ -4,15 +4,15 @@ Markdown | 效果
 Bold | **text**	
 Emphasize | *text*
 Strike-through | ~~text~~
-Link | [github](https://github.com/)
 内嵌代码 | `code`
-Image | ![pic](http://)	
 List | * item
 Blockquote | > quote	
 H1 | # Heading	
 H2 | ## Heading	
 H3 | ### Heading
 画水平线 | --------
+Link | [github](https://github.com/)
+Image | ![pic](http://)	
 
 ## 公式编辑
 $$
