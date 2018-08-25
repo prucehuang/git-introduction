@@ -4,12 +4,10 @@
 [GitBook的帮助文档](https://toolchain.gitbook.com/)
 
 https://yuzeshan.gitbooks.io/gitbook-studying/content/index.html
-https://blog.csdn.net/kuangshp128/article/details/80714353
 http://www.chengweiyang.cn/gitbook/plugins/functional/multipart.html
 http://gitbook.zhangjikai.com/bookjson.html
 
-
-https://dunwu.gitbooks.io/gitbook-notes/
+[gitbook-notes](https://dunwu.gitbooks.io/gitbook-notes)
 
 https://zhuanlan.zhihu.com/p/34946169
 
