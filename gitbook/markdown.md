@@ -57,10 +57,46 @@ $$
 $$
 
 5. 三角函数与矩阵
+```
 
+    \cos2\theta = cos^2\theta - \sin^2 \theta \\ =  2\cos^2\theta -1
+
+    \begin{equation}
+    A=\left[
+        \begin{matrix}
+        1&2&3&\\
+        2&2&3&\\
+        3&2&3&
+        \end{matrix}
+    \right]
+    \end{equation}
+```
 $$
     \cos2\theta = cos^2\theta - \sin^2 \theta \\ =  2\cos^2\theta -1
 $$
+
+$$
+    \begin{equation}
+    A=\left[
+        \begin{matrix}
+        1&2&3&\\
+        2&2&3&\\
+        3&2&3&
+        \end{matrix}
+    \right]
+    \end{equation}
+$$
+
+
+
+
+
+
+
+
+
+
+
 
 
 
