@@ -81,17 +81,18 @@ language | 本书的语言类型 —— ISO code 。默认值是 en
 direction | 文本阅读顺序。可以是 rtl （从右向左）或 ltr （从左向右），默认值依赖于 language 的值。
 gitbook | 应该使用的GitBook版本。使用 SemVer 规范，并接受类似于 “> = 3.0.0” 的条件。
 
-## 不馋鬼配置
-links | 在左侧导航栏添加链接信息
-例：
+## 不常规配置
+1. links 在左侧导航栏添加链接信息
+```
 "links" : {
     "sidebar" : {
         "Home" : "https://github.com/dunwu/gitbook-notes"
     }
 }
+```
 
-styles
-自定义页面样式， 默认情况下各generator对应的css文件
+2. styles 自定义页面样式， 
+默认情况下各generator对应的css文件
 例：
 "styles": {
     "website": "styles/website.css",
