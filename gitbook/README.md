@@ -55,6 +55,5 @@ $ gitbook mobi ./ ./mybook.mobi
 在更目录下创建大封面和小封面文件
 cover.jpg 1800x2360
 cover_small.jpg 200x262
-
 ```
 
