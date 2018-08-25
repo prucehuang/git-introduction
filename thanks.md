@@ -14,6 +14,7 @@ http://gitbook.zhangjikai.com/bookjson.html
 [Markdown：指南](https://www.binarization.com/archive/2016/markdown-guide/#help)
 [markdown中的数学公式简要](https://blog.csdn.net/wireless_com/article/details/70596155)
 [Markdown公式编辑学习笔记](https://www.cnblogs.com/q735613050/p/7253073.html)
+[Cmd Markdown 公式指导手册](https://www.zybuluo.com/codeep/note/163962)
 
 > @ WHAT - HOW - WHY  
 > @ 不积跬步 - 无以至千里
