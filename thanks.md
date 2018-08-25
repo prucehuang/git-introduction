@@ -2,9 +2,8 @@
 
 [GitBook在GitHub上的源码](https://github.com/GitbookIO/gitbook)
 [GitBook的帮助文档](https://toolchain.gitbook.com/)
-
-[gitbook-notes](https://dunwu.gitbooks.io/gitbook-notes)
 [使用 Gitbook 打造你的电子书](https://zhuanlan.zhihu.com/p/34946169)
+[gitbook-notes](https://dunwu.gitbooks.io/gitbook-notes)
 
 
 https://chrisniael.gitbooks.io/gitbook-documentation/content/
