@@ -11,6 +11,7 @@ https://yuzeshan.gitbooks.io/gitbook-studying/content/index.html
 http://www.chengweiyang.cn/gitbook/plugins/functional/multipart.html
 http://gitbook.zhangjikai.com/bookjson.html
 
+[Markdown：指南](https://www.binarization.com/archive/2016/markdown-guide/#help)
 
 > @ WHAT - HOW - WHY  
 > @ 不积跬步 - 无以至千里
