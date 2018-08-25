@@ -12,6 +12,7 @@ http://www.chengweiyang.cn/gitbook/plugins/functional/multipart.html
 http://gitbook.zhangjikai.com/bookjson.html
 
 [Markdown：指南](https://www.binarization.com/archive/2016/markdown-guide/#help)
+[markdown中的数学公式简要](https://blog.csdn.net/wireless_com/article/details/70596155)
 
 > @ WHAT - HOW - WHY  
 > @ 不积跬步 - 无以至千里
