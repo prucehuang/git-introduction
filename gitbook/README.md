@@ -34,6 +34,7 @@
 ```
 
 ### book.json
+以JSON的格式配置书籍基本信息和插件
 
 ### GitBook 可以生成一个网站，也可以生成电子书（ePub，Mobi，PDF），需要提前安装Calibre软件
 
