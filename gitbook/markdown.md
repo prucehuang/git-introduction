@@ -21,7 +21,7 @@ Image | ![pic](http://)
 x=\frac{-b\pm\sqrt{b^2-4a_1c_1}}{2a}
 ```
 $$
-    x=\frac{-b\pm\sqrt{b^2-4a_1c_1}}{2a}
+    x=\frac{-b\pm\sqrt[3]{b^2-4a_1c_1}}{2a}
 $$
 
 2. 求和与联乘
@@ -73,9 +73,7 @@ $$
 ```
 $$
     \cos2\theta = cos^2\theta - \sin^2 \theta \\ =  2\cos^2\theta -1
-$$
-
-$$
+\quad\quad\quad\\
     \begin{equation}
     A=\left[
         \begin{matrix}
@@ -87,12 +85,22 @@ $$
     \end{equation}
 $$
 
+6. 分数
+```
+\frac{a-1}{b-1} 
+或者
+{a+1\over b+1}
+```
+
+$$\frac{a-1}{b-1} \quad and \quad {a+1\over b+1}$$
+
 ![公式对照表1](/image/latex_1.png)
 ![公式对照表2](/image/latex_2.png)
 ![公式对照表3](/image/latex_3.png)
 
 
 
+<<<<<<< HEAD
 $$
 f(x_1,x_2,\underbrace{\ldots}_{\rm ldots} ,x_n) = x_1^2 + x_2^2 + \underbrace{\cdots}_{\rm cdots} + x_n^2
 $$
@@ -103,6 +111,8 @@ hah
 ```math
 f(x_1,x_2,\underbrace{\ldots}_{\rm ldots} ,x_n) = x_1^2 + x_2^2 + \underbrace{\cdots}_{\rm cdots} + x_n^2
 ```
+=======
+>>>>>>> c004f7bab3fb40e247a93d17150e8d87bc08c4ed
 
 
 
