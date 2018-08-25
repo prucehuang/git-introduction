@@ -14,6 +14,12 @@ H3 | ### Heading
 Link | [github](https://github.com/)
 Image | ![pic](http://)	
 标注 | 标注[^1]: This is my first footnote
+表格：
+
+header 1 | header 2
+---|---
+row 1 col 1 | row 1 col 2
+row 2 col 1 | row 2 col 2
 
 ## 公式编辑
 1. 角标 和 开方

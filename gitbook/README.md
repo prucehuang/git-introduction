@@ -58,3 +58,10 @@ cover.jpg 1800x2360
 cover_small.jpg 200x262
 ```
 
+## GitBook Editor
+https://legacy.gitbook.com/editor  
+本地编辑GitBook的工具，可以直接关联GitHub，文件修改后先保存在本地，然后直接push到指定的GitHub仓库。  
+GitBook Editor最好的功能是可以编辑和预览MarkDown文档
+![GitBook Editor](/image/gitbook_editor.png)
+
+
