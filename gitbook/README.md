@@ -34,3 +34,17 @@
 ```
 
 ### book.json
+
+### GitBook 可以生成一个网站，也可以生成电子书（ePub，Mobi，PDF），需要提前安装Calibre
+
+```
+# Generate a PDF file
+$ gitbook pdf ./ ./mybook.pdf
+
+# Generate an ePub file
+$ gitbook epub ./ ./mybook.epub
+
+# Generate a Mobi file
+$ gitbook mobi ./ ./mybook.mobi
+```
+
