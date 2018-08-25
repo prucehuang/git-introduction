@@ -24,6 +24,17 @@ $$
     x=\frac{-b\pm\sqrt{b^2-4a_1c_1}}{2a}
 $$
 
+2. 求和与联乘
+$$
+    \sum_{i=0}^{n}
+    \sum^{n}_{j=0}
+    \prod_10
+    \prod_\epsilon
+$$
+
+
+
+
 $$
 f(x_1,x_2,\underbrace{\ldots}_{\rm ldots} ,x_n) = x_1^2 + x_2^2 + \underbrace{\cdots}_{\rm cdots} + x_n^2
 $$
