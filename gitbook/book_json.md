@@ -136,42 +136,6 @@ $ gitbook install
 
 
 
-structure
-除了 root 属性之外，您可以指定 Readme，Summary，Glossary 和 Languages 的名称（而不是使用默认名称，如README.md）。这些文件必须在项目的根目录下（或 root 的根目录，如果你在 book.json 中配置了 root 属性）。不接受的路径，如：dir / MY_README.md。
-变量
-描述
-structure.readme
-Readme 文件名（默认值是 README.md ）
-structure.summary
-Summary 文件名（默认值是 SUMMARY.md ）
-structure.glossary
-Glossary 文件名（默认值是 GLOSSARY.md ）
-structure.languages
-Languages 文件名（默认值是 LANGS.md ）
-pdf
-可以使用 book.json 中的一组选项来定制PDF输出：
-Variable
-Description
-pdf.pageNumbers
-将页码添加到每个页面的底部（默认为 true）
-pdf.fontSize
-基本字体大小（默认是 12）
-pdf.fontFamily
-基本字体样式（默认是 Arial）
-pdf.paperSize
-页面尺寸，选项有： 'a0', 'a1', 'a2', 'a3', 'a4', 'a5', 'a6', 'b0', 'b1', 'b2', 'b3', 'b4', 'b5', 'b6', 'legal', 'letter' （默认值是 a4）
-pdf.margin.top
-上边界（默认值是 56）
-pdf.margin.bottom
-下边界（默认值是 56）
-pdf.margin.right
-右边界（默认值是 62）
-pdf.margin.left
-左边界（默认值是 62）
-Copyright © Zhang Peng 2017 all right reserved，powered by Gitbook
-文件最近一次修订时间： 2017-11-10 02:40:04 
-
-赏
 
 
 
