@@ -1,19 +1,17 @@
 # Markdown编辑
-Markdown语法 | 效果
-
-输出后的效果 | 快捷键
+Markdown | 效果
 --|--
-Bold | **text**	Ctrl/⌘ + B
-Emphasize	*text*	Ctrl/⌘ + I
-Strike-through	~~text~~	Ctrl + Alt + U
-Link	[title](http://)	Ctrl/⌘ + K
-Inline Code	`code`	Ctrl/⌘ + Shift + K
-Image	![alt](http://)	Ctrl/⌘ + Shift + I
-List	* item	Ctrl + L
-Blockquote	> quote	Ctrl + Q
-H1	# Heading	
-H2	## Heading	Ctrl/⌘ + H
-H3	### Heading
+Bold | **text**	
+Emphasize | *text*
+Strike-through | ~~text~~
+Link | [github](https://github.com/)
+Inline Code | `code`
+Image | ![alt](http://)	
+List | * item
+Blockquote | > quote	
+H1 | # Heading	
+H2 | ## Heading	
+H3 | ### Heading
 
 
 ## 公式编辑
