@@ -13,10 +13,8 @@ H3 | ### Heading
 画水平线 | --------
 Link | [github](https://github.com/)
 Image | ![pic](http://)	
+标注 | 标注[^1]: This is my first footnote
 
-[^1]: This is my first footnote
-[^n]: Visit http://ghost.org
-[^n]: A final footnote
 ## 公式编辑
 $$
     x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}
