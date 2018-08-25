@@ -134,7 +134,7 @@ livereload
 $ gitbook install
 ```
 
-常用的插件 | 说明
+插件 | 说明
 ---|---
 back-to-top-button | 增加页面回到顶部的按钮
 splitter | 目录可以拖拽修改宽度
