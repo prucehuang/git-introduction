@@ -25,13 +25,42 @@ $$
 $$
 
 2. 求和与联乘
+```
+    \sum_{i=0}^{n}
+    \sum^{n}_{j=0}
+    \prod_{10}
+    \prod_\epsilon
+```
 $$
     \sum_{i=0}^{n}
     \sum^{n}_{j=0}
-    \prod_10
+    \prod_{10}
     \prod_\epsilon
 $$
 
+3. 微分与积分
+```
+    \int_{a}^{\pi}f(x)dx
+```
+$$
+    \int_{a}^{\pi}f(x)dx
+$$
+
+4. 极限 与 偏导数
+```
+    \lim_{x \to +\infty}\frac{1}{x}
+    \frac{\partial^2 u}{\partial z^2}
+```
+$$
+    \lim_{x \to +\infty}\frac{1}{x} \\
+    \frac{\partial^2 u}{\partial z^2}
+$$
+
+5. 三角函数与矩阵
+
+$$
+    \cos2\theta = cos^2\theta - \sin^2 \theta \\ =  2\cos^2\theta -1
+$$
 
 
 
