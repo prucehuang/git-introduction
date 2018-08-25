@@ -9,7 +9,7 @@ http://gitbook.zhangjikai.com/bookjson.html
 
 [gitbook-notes](https://dunwu.gitbooks.io/gitbook-notes)
 
-https://zhuanlan.zhihu.com/p/34946169
+[使用 Gitbook 打造你的电子书](https://zhuanlan.zhihu.com/p/34946169)
 
 http://km.oa.com/group/25584/articles/show/348272?kmref=search&from_page=1&no=7
 
