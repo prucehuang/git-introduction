@@ -86,7 +86,11 @@ $$
 $$
 
 6. 分数
-
+```
+\frac{a-1}{b-1} 
+或者
+{a+1\over b+1}
+```
 
 $$\frac{a-1}{b-1} \quad and \quad {a+1\over b+1}$$
 
