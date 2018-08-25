@@ -21,7 +21,6 @@ Image | ![pic](http://)
 ```
 x=\frac{-b\pm\sqrt{b^2-4a_1c_1}}{2a}
 ```
-
 $$
     x=\frac{-b\pm\sqrt{b^2-4a_1c_1}}{2a}
 $$
