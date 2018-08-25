@@ -91,9 +91,9 @@ gitbook | 应该使用的GitBook版本。使用 SemVer 规范，并接受类似�
 }
 ```
 
-2. styles 自定义页面样式， 
+2. styles 自定义页面样式
 默认情况下各generator对应的css文件
-例：
+```
 "styles": {
     "website": "styles/website.css",
     "ebook": "styles/ebook.css",
@@ -105,31 +105,39 @@ gitbook | 应该使用的GitBook版本。使用 SemVer 规范，并接受类似�
 h1 , h2{
     border-bottom: 1px solid #EFEAEA;
 }
+```
 
-plugins
-插件及其配置在 book.json 中指定。有关详细信息。
-自 3.0.0 版本开始，GitBook 可以使用主题。有关详细信息，请参阅 the theming section 。
-变量
-描述
-plugins
-要加载的插件列表
-pluginsConfig
-插件的配置
-添加插件
-"plugins": [
-    "splitter"
-]
-添加新插件之后需要运行 gitbook install 来安装新的插件
-去除自带插件
+3. plugins
+- plugins 要加载的插件列表
+- pluginsConfig 插件的配置  
+
+```
 Gitbook 默认带有 5 个插件：
+
 highlight
 search
 sharing
 font-settings
 livereload
+
+# 去除自带插件
 "plugins": [
     "-search"
 ]
+
+```
+
+
+
+
+添加插件
+"plugins": [
+    "splitter"
+]
+添加新插件之后需要运行 gitbook install 来安装新的插件
+
+
+
 structure
 除了 root 属性之外，您可以指定 Readme，Summary，Glossary 和 Languages 的名称（而不是使用默认名称，如README.md）。这些文件必须在项目的根目录下（或 root 的根目录，如果你在 book.json 中配置了 root 属性）。不接受的路径，如：dir / MY_README.md。
 变量
