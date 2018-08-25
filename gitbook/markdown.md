@@ -16,12 +16,29 @@ Image | ![pic](http://)
 标注 | 标注[^1]: This is my first footnote
 
 ## 公式编辑
+1. 角标 和 开方
+
+```
+x=\frac{-b\pm\sqrt{b^2-4a_1c_1}}{2a}
+```
+
 $$
-    x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}
+    x=\frac{-b\pm\sqrt{b^2-4a_1c_1}}{2a}
 $$
 
 $$
 f(x_1,x_2,\underbrace{\ldots}_{\rm ldots} ,x_n) = x_1^2 + x_2^2 + \underbrace{\cdots}_{\rm cdots} + x_n^2
 $$
+
+
+
+
+
+
+
+
+
+
+
 
 
