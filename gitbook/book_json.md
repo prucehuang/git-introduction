@@ -107,11 +107,9 @@ h1 , h2{
 }
 ```
 
-3. plugins
+3. plugins插件
 plugins 要加载的插件列表
 pluginsConfig 插件的配置  
-
-4. 常用的插件
 
 ```
 Gitbook 默认带有 5 个插件：
