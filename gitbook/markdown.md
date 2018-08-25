@@ -17,7 +17,6 @@ Image | ![pic](http://)
 
 ## 公式编辑
 1. 角标 和 开方
-
 ```
 x=\frac{-b\pm\sqrt{b^2-4a_1c_1}}{2a}
 ```
