@@ -48,3 +48,11 @@ $ gitbook epub ./ ./mybook.epub
 $ gitbook mobi ./ ./mybook.mobi
 ```
 
+### 封面
+- 可以使用 autocover plugin 生成一个。
+- 自定义封面，cover.jpg 文件放在书本的根目录下。添加一个 cover_small.jpg 将指定一个较小版本的封面。封面应为 JPEG 文件。
+好的封面应该遵守以下准则：
+cover.jpg 的尺寸为 1800x2360 像素，cover_small.jpg 为 200x262
+没有边界
+清晰可见的书名
+任何重要的文字应该在小版本中可见
