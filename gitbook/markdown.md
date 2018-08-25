@@ -73,9 +73,7 @@ $$
 ```
 $$
     \cos2\theta = cos^2\theta - \sin^2 \theta \\ =  2\cos^2\theta -1
-$$
-
-$$
+\quad\quad\quad\\
     \begin{equation}
     A=\left[
         \begin{matrix}
