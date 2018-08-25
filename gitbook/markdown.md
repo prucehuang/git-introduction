@@ -87,16 +87,9 @@ $$
     \end{equation}
 $$
 
-
-
-
-
-
-
-
-
-
-
+![公式对照表1](/image/latex_1.png)
+![公式对照表2](/image/latex_2.png)
+![公式对照表3](/image/latex_3.png)
 
 
 
