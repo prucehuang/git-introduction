@@ -6,7 +6,7 @@ Emphasize | *text*
 Strike-through | ~~text~~
 Link | [github](https://github.com/)
 Inline Code | `code`
-Image | ![alt](http://)	
+Image | ![pic](http://)	
 List | * item
 Blockquote | > quote	
 H1 | # Heading	
