@@ -1,6 +1,8 @@
 # 感谢&参考文章
 
-GitBook在GitHub上的源码 https://github.com/GitbookIO/gitbook
+[GitBook在GitHub上的源码 
+](https://github.com/GitbookIO/gitbook)
+
 GitBook的帮助文档 https://toolchain.gitbook.com/
 
 https://yuzeshan.gitbooks.io/gitbook-studying/content/index.html
