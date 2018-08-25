@@ -134,7 +134,28 @@ livereload
 $ gitbook install
 ```
 
+常用的插件 | 说明
+---|---
+back-to-top-button | 增加页面回到顶部的按钮
+splitter | 目录可以拖拽修改宽度
+expandable-chapters-small | 当有二级菜单的时候，自动默认收缩
+tbfed-pagefooter | 页面底部增加版权信息
+search-pro | 支持中文搜索（默认只支持英文）
+copy-code-button | 支持代码复制
 
+tbfed-pagefooter对应的配置
+```
+"pluginsConfig": {
+    "theme-default": {
+        "showLevel": true
+    },
+    "tbfed-pagefooter": {
+        "copyright": "Copyright (c) 2018 Tencent PRUCE & MG.",
+        "modify_label": "time：",
+        "modify_format": "YYYY-MM-DD HH:mm:ss"
+    }
+}
+```
 
 
 
