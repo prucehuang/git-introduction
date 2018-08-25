@@ -5,14 +5,14 @@ Bold | **text**
 Emphasize | *text*
 Strike-through | ~~text~~
 Link | [github](https://github.com/)
-Inline Code | `code`
+内嵌代码 | `code`
 Image | ![pic](http://)	
 List | * item
 Blockquote | > quote	
 H1 | # Heading	
 H2 | ## Heading	
 H3 | ### Heading
-
+画水平线 | --------
 
 ## 公式编辑
 $$
