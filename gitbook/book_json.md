@@ -124,17 +124,15 @@ livereload
 "plugins": [
     "-search"
 ]
-
-```
-
-
-
-
-添加插件
+# 添加插件
 "plugins": [
     "splitter"
 ]
-添加新插件之后需要运行 gitbook install 来安装新的插件
+配置完后执行
+$ gitbook install
+```
+
+
 
 
 
