@@ -1,4 +1,19 @@
 {
+    "title": "Git-Introduction",
+    "description": "GitHub、GitBook简单使用介绍",
+    "language": "zh-hans",
+    "gitbook": "3.2.3",
+    "styles": {
+        "website": "./styles/website.css"
+    },
+    "structure": {
+        "readme": "README.md"
+    },
+    "links": {
+        "sidebar": {
+            "我的博客": "https://blog.csdn.net/kuangshp128" 
+        }
+    },
     "author": "pruce",
     "plugins": [
         "back-to-top-button",
