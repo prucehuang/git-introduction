@@ -52,7 +52,7 @@ $$
     \frac{\partial^2 u}{\partial z^2}
 ```
 $$
-    \lim_{x \to +\infty}\frac{1}{x} \\
+    \lim_{x \to +\infty}\frac{1}{x}
     \frac{\partial^2 u}{\partial z^2}
 $$
 
@@ -72,8 +72,7 @@ $$
     \end{equation}
 ```
 $$
-    \cos2\theta = cos^2\theta - \sin^2 \theta \\ =  2\cos^2\theta -1
-\quad\quad\quad\\
+    \cos2\theta = cos^2\theta - \sin^2 \theta = 2\cos^2\theta -1
     \begin{equation}
     A=\left[
         \begin{matrix}
@@ -99,20 +98,6 @@ $$\frac{a-1}{b-1} \quad and \quad {a+1\over b+1}$$
 ![公式对照表3](/image/latex_3.png)
 
 
-
-<<<<<<< HEAD
-$$
-f(x_1,x_2,\underbrace{\ldots}_{\rm ldots} ,x_n) = x_1^2 + x_2^2 + \underbrace{\cdots}_{\rm cdots} + x_n^2
-$$
-
-$$ J_\alpha(x) = \sum_{m=0}^\infty \frac{(-1)^m}{m! \Gamma (m + \alpha + 1)} {\left({ \frac{x}{2} }\right)}^{2m + \alpha} \text {，独立公式示例} $$
-
-hah
-```math
-f(x_1,x_2,\underbrace{\ldots}_{\rm ldots} ,x_n) = x_1^2 + x_2^2 + \underbrace{\cdots}_{\rm cdots} + x_n^2
-```
-=======
->>>>>>> c004f7bab3fb40e247a93d17150e8d87bc08c4ed
 
 
 

@@ -21,7 +21,7 @@ Image | ![pic](http://)
 x=\frac{-b\pm\sqrt{b^2-4a_1c_1}}{2a}
 ```
 $$
-    x=\frac{-b\pm\sqrt{b^2-4a_1c_1}}{2a}
+    x=\frac{-b\pm\sqrt[3]{b^2-4a_1c_1}}{2a}
 $$
 
 2. 求和与联乘
@@ -52,7 +52,7 @@ $$
     \frac{\partial^2 u}{\partial z^2}
 ```
 $$
-    \lim_{x \to +\infty}\frac{1}{x} \\
+    \lim_{x \to +\infty}\frac{1}{x}
     \frac{\partial^2 u}{\partial z^2}
 $$
 
@@ -72,10 +72,7 @@ $$
     \end{equation}
 ```
 $$
-    \cos2\theta = cos^2\theta - \sin^2 \theta \\ =  2\cos^2\theta -1
-$$
-
-$$
+    \cos2\theta = cos^2\theta - \sin^2 \theta = 2\cos^2\theta -1
     \begin{equation}
     A=\left[
         \begin{matrix}
@@ -87,17 +84,18 @@ $$
     \end{equation}
 $$
 
+6. 分数
+```
+\frac{a-1}{b-1} 
+或者
+{a+1\over b+1}
+```
+
+$$\frac{a-1}{b-1} \quad and \quad {a+1\over b+1}$$
+
 ![公式对照表1](/image/latex_1.png)
 ![公式对照表2](/image/latex_2.png)
 ![公式对照表3](/image/latex_3.png)
-
-
-
-$$
-f(x_1,x_2,\underbrace{\ldots}_{\rm ldots} ,x_n) = x_1^2 + x_2^2 + \underbrace{\cdots}_{\rm cdots} + x_n^2
-$$
-
-$$ J_\alpha(x) = \sum_{m=0}^\infty \frac{(-1)^m}{m! \Gamma (m + \alpha + 1)} {\left({ \frac{x}{2} }\right)}^{2m + \alpha} \text {，独立公式示例} $$
 
 
 

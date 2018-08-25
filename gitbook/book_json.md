@@ -140,6 +140,7 @@ expandable-chapters-small | 当有二级菜单的时候，自动默认收缩
 tbfed-pagefooter | 页面底部增加版权信息
 search-pro | 支持中文搜索（默认只支持英文）
 copy-code-button | 支持代码复制
+mathjax | Insert math and LaTeX equations in your pages
 
 tbfed-pagefooter对应的配置
 ```

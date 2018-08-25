@@ -9,11 +9,6 @@
     "structure": {
         "readme": "README.md"
     },
-    "links": {
-        "sidebar": {
-            "GitHub Code": "https://github.com/prucehuang/git-introduction.git" 
-        }
-    },
     "author": "pruce",
     "plugins": [
         "back-to-top-button",
@@ -25,7 +20,10 @@
         "advanced-emoji",
         "github",
         "donate",
-        "multipart"
+        "multipart",
+        "mathjax",
+        "simple-page-toc",
+        "disqus"
     ],
     "pluginsConfig": {
         "theme-default": {
@@ -44,8 +42,15 @@
             "alipay": "https://github.com/prucehuang/common-resources/blob/master/pictures/zhifubao_pay.jpg?raw=true",
             "title": "",
             "button": "赏",
-            "alipayText": "支付宝打赏",
-            "wechatText": "微信打赏"
+            "alipayText": "支付宝",
+            "wechatText": "微信"
+        },
+        "simple-page-toc": {
+            "maxDepth": 3,
+            "skipFirstH1": true
+        },
+        "disqus": {
+            "shortName": "Git-Introduction"
         }
     },
     "pdf": {
