@@ -9,6 +9,7 @@
 
 https://chrisniael.gitbooks.io/gitbook-documentation/content/  
 https://yuzeshan.gitbooks.io/gitbook-studying/content/index.html  
+https://chrisniael.gitbooks.io/gitbook-documentation/content/
 
 ### MarkDown编辑
 [Markdown：指南](https://www.binarization.com/archive/2016/markdown-guide/#help)  
@@ -18,6 +19,8 @@ https://yuzeshan.gitbooks.io/gitbook-studying/content/index.html
 
 ### GitHub
 [git 常用命令](http://www.cnblogs.com/springbarley/archive/2012/11/03/2752984.html)
+[git 官方文档](https://git-scm.com/book/en/v2)
+
 
 > @ WHAT - HOW - WHY  
 > @ 不积跬步 - 无以至千里
