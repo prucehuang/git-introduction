@@ -98,8 +98,11 @@ $$
 或者
 {a+1\over b+1}
 ```
+$$
+    \frac{a-1}{b-1} \quad and \quad {a+1\over b+1}
+$$
 
-$$\frac{a-1}{b-1} \quad and \quad {a+1\over b+1}$$
+[在线公式编辑页](https://www.codecogs.com/latex/eqneditor.php?lang=zh-cn)
 
 ![公式对照表1](/image/latex_1.png)
 ![公式对照表2](/image/latex_2.png)
