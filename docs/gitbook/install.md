@@ -36,7 +36,7 @@ $ gitbook build
 ```
 
 ```
-# 生成PDF文档（先要安装XXX软件）
+# 生成PDF文档（先要安装Calibre软件）
 $ gitbook pdf
 ```
 ```

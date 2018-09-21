@@ -25,8 +25,13 @@ $ gitbook build
 ```
 /_book/
 /node_modules/
-/docs/docs/
 ```
+
+.bookignore 打包的时候忽略docs文件夹
+```
+docs/
+```
+
 7. 上传所有的文本到GitHub服务器，进入GitHub的设置页面，选择Settings，找到GitHub Pages，打开并选择"master branch/docs folder"
 ![github_pages设置](/image/github_pages.png)
 保存后稍等片刻即可访问
@@ -35,7 +40,7 @@ https://prucehuang.github.io/git-introduction/
 
 ## 部署到GitBook上
 登陆新版的gitbook.com，注册并设置关联GitHub，最新的文件提交后可以直接同步到书籍
-
+![Gitbook关联GitHub](/image/github_online.png)
 
 
 

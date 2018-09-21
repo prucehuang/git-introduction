@@ -1,19 +1,21 @@
 # Markdown编辑
-Markdown | 效果
---|--
-Bold | **text**	
-Emphasize | *text*
-Strike-through | ~~text~~
-内嵌代码 | `code`
-List | * item
-Blockquote | > quote	
-H1 | # Heading	
-H2 | ## Heading	
-H3 | ### Heading
-画水平线 | --------
-Link | [github](https://github.com/)
-Image | ![pic](http://)	
-标注 | 标注[^1]: This is my first footnote
+
+Markdown | 语法 | 效果
+--|--|--
+Bold | `**text**` | **text**
+Emphasize | `*text*` | *text*
+Strike-through | `~~text~~` | ~~text~~
+内嵌代码 | ``code`` | `code`
+List | `* item` | * item
+Blockquote | `> quote` | > quote
+H1 | `# Heading` | # Heading
+H2 | `## Heading` | ## Heading
+H3 | `### Heading` | ### Heading
+画水平线 | `--------` | --------
+Link | `[github](https://github.com/)` | [github](https://github.com/)
+Image | `![pic](http://)` | ![pic](http://)
+标注 | `标注[^1]: This is my first footnote` | 标注[^1]: This is my first footnote
+
 表格：
 
 header 1 | header 2
@@ -96,8 +98,11 @@ $$
 或者
 {a+1\over b+1}
 ```
+$$
+    \frac{a-1}{b-1} \quad and \quad {a+1\over b+1}
+$$
 
-$$\frac{a-1}{b-1} \quad and \quad {a+1\over b+1}$$
+[在线公式编辑页](https://www.codecogs.com/latex/eqneditor.php?lang=zh-cn)
 
 ![公式对照表1](/image/latex_1.png)
 ![公式对照表2](/image/latex_2.png)
