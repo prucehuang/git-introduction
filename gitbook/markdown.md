@@ -24,7 +24,7 @@ row 1 col 1 | row 1 col 2
 row 2 col 1 | row 2 col 2
 
 ## 公式编辑
-1. 空格
+- 空格  
 Markdown | 语法 | 效果
 --|--|--
 两个quad空格 | a \qquad b | 两个m的宽度
@@ -33,9 +33,10 @@ quad空格 | a \quad b | 一个m的宽度
 中等空格 | a\;b | 2/7m宽度
 小空格 | a\,b | 1/6m宽度
 没有空格 | ab |
-紧贴 | a\\!b | 缩进1/6m宽度
+紧贴 | a\\!b | 缩进1/6m宽度  
 
-2. 角标 和 开方
+
+- 角标 和 开方
 ```
 x=\frac{-b\pm\sqrt{b^2-4a_1c_1}}{2a}
 ```
