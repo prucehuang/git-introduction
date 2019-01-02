@@ -24,7 +24,7 @@ row 1 col 1 | row 1 col 2
 row 2 col 1 | row 2 col 2
 
 ## 公式编辑
-0. 空格
+1. 空格
 Markdown | 语法 | 效果
 --|--|--
 两个quad空格 | a \qquad b | 两个m的宽度
@@ -35,8 +35,7 @@ quad空格 | a \quad b | 一个m的宽度
 没有空格 | ab |
 紧贴 | a\\!b | 缩进1/6m宽度
 
-
-1. 角标 和 开方
+2. 角标 和 开方
 ```
 x=\frac{-b\pm\sqrt{b^2-4a_1c_1}}{2a}
 ```
@@ -44,7 +43,7 @@ $$
     x=\frac{-b\pm\sqrt[3]{b^2-4a_1c_1}}{2a}
 $$
 
-2. 求和与联乘
+3. 求和与联乘
 ```
     \sum_{i=0}^{n}
     \sum^{n}_{j=0}
@@ -58,7 +57,7 @@ $$
     \prod_\epsilon
 $$
 
-3. 微分与积分
+4. 微分与积分
 ```
     \int_{a}^{\pi}f(x)dx
 ```
@@ -66,7 +65,7 @@ $$
     \int_{a}^{\pi}f(x)dx
 $$
 
-4. 极限 与 偏导数
+5. 极限 与 偏导数
 ```
     \lim_{x \to +\infty}\frac{1}{x}
     \frac{\partial^2 u}{\partial z^2}
@@ -76,7 +75,7 @@ $$
     \frac{\partial^2 u}{\partial z^2}
 $$
 
-5. 三角函数与矩阵
+6. 三角函数与矩阵
 ```
 
     \cos2\theta = cos^2\theta - \sin^2 \theta \\ =  2\cos^2\theta -1
@@ -104,7 +103,7 @@ $$
     \end{equation}
 $$
 
-6. 分数
+7. 分数
 ```
 \frac{a-1}{b-1} 
 或者
