@@ -115,6 +115,7 @@ $$
 $$
 
 [在线公式编辑页](https://www.codecogs.com/latex/eqneditor.php?lang=zh-cn)
+[KATEX公式文档](https://katex.org/docs/supported.html)
 
 ![公式对照表1](/image/latex_1.png)
 ![公式对照表2](/image/latex_2.png)
