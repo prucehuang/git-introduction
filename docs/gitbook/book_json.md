@@ -1,6 +1,6 @@
 # book插件
 
-## book.json demo
+## book.json (https://plugins.gitbook.com/)
 ```
 {
     "title": "Git-Introduction",

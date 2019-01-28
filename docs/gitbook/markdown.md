@@ -13,7 +13,7 @@ H2 | `## Heading` | ## Heading
 H3 | `### Heading` | ### Heading
 画水平线 | `--------` | --------
 Link | `[github](https://github.com/)` | [github](https://github.com/)
-Image | `![pic](http://)` | ![pic](http://)
+Image | `![pic](http)` | `![pic](http)`
 标注 | `标注[^1]: This is my first footnote` | 标注[^1]: This is my first footnote
 
 表格：
@@ -25,15 +25,16 @@ row 2 col 1 | row 2 col 2
 
 ## 公式编辑
 - 空格  
-Markdown | 语法 | 效果
---|--|--
-两个quad空格 | a \qquad b | 两个m的宽度
-quad空格 | a \quad b | 一个m的宽度
-大空格 | a\\ b | 1/3m宽度
-中等空格 | a\;b | 2/7m宽度
-小空格 | a\,b | 1/6m宽度
-没有空格 | ab |
-紧贴 | a\\!b | 缩进1/6m宽度  
+
+Markdown | 语法 | 效果  
+--|--|--  
+两个quad空格 | a \qquad b | 两个m的宽度  
+quad空格 | a \quad b | 一个m的宽度  
+大空格 | a\\ b | 1/3m宽度  
+中等空格 | a\;b | 2/7m宽度  
+小空格 | a\,b | 1/6m宽度  
+没有空格 | ab |  
+紧贴 | a\\!b | 缩进1/6m宽度    
 
 
 - 角标 和 开方

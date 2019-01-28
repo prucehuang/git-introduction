@@ -13,7 +13,7 @@ H2 | `## Heading` | ## Heading
 H3 | `### Heading` | ### Heading
 画水平线 | `--------` | --------
 Link | `[github](https://github.com/)` | [github](https://github.com/)
-Image | `![pic](http://)` | ![pic](http://)
+Image | `![pic](http)` | `![pic](http)`
 标注 | `标注[^1]: This is my first footnote` | 标注[^1]: This is my first footnote
 
 表格：
