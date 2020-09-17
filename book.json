@@ -22,8 +22,7 @@
         "donate",
         "multipart",
         "latex-codecogs",
-        "simple-page-toc",
-        "disqus"
+        "simple-page-toc"
     ],
     "pluginsConfig": {
         "theme-default": {

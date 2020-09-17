@@ -4,7 +4,7 @@
 https://github.com
 
 ## 创建新的Repositories
-![新建资源](/image/create_repositories.png)
+![新建资源](../image/create_repositories.png)
 
 ## Git clone到本地
 ```

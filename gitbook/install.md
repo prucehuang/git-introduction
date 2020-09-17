@@ -1,14 +1,21 @@
 ## 提前要求
-* NodeJS (v4.0.0 and above is recommended)
+* NodeJS (要求是10.X版本，更高版本会报错，TypeError: cb.apply is not a function)
 * Windows, Linux, Unix, or Mac OS X
 
 ## 安装
 ```
-$ npm install GitBook-cli -g
+# 安装node
+$ brew install node@10
+$ echo 'export PATH="/usr/local/opt/node@10/bin:$PATH"' >> ~/.zshrc
+$ source ~/.zshrc
+
+# 安装管理工具cli
+$ npm install gitbook-cli -g
+
 # 查看并安装最新版本的GitBook
 $ gitbook -V
 ```
-`GitBook-cli` 是GitBook的管理工具，能自动下载安装GitBook，并选择不同的版本
+`gitbook-cli` 是GitBook的管理工具，能自动下载安装GitBook，并选择不同的版本
 
 ## 创建一本书
 ```
